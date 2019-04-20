@@ -1,1 +1,2 @@
 # AdvancedData
+This folder consists of following files: -climate.ipynb - jupyter notebook with climate analysis with sql Alchemy and Flask -HW_10.py - python with routes defined -pdf file with data analysis -related sqlite,csv data files(Resources)
